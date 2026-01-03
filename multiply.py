@@ -1,2 +1,5 @@
-def mul(a,b):
-    print(a*b)
+def mul(m,n):
+    multiplication = m*n 
+    print(multiplication)
+    return multiplication
+    

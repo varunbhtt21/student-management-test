@@ -1,2 +1,3 @@
 def mul(a,b):
-    print(a*b)
+    mul = a*b 
+    return mul
